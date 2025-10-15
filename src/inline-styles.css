@@ -1,0 +1,5 @@
+:root { --theme-border-radius: var(--radius-lg); --theme-border-radius-capped: var(--radius-lg); }
+.true.webild-selected {
+      outline: 2px solid rgba(59, 130, 246, 0.9) !important;
+      background-color: rgba(59, 130, 246, 0.05) !important;
+    }
